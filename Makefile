@@ -5,7 +5,7 @@ CSS=$(wildcard ./css/*.css)
 docs : $(HTML)
 
 %.html : %.jemdoc MENU mysite.conf Makefile $(CSS)
-	jemdoc -c mysite.conf -o $@ $<
+	python2.7 jemdoc.py -c mysite.conf -o $@ $<
 
 .PHONY : clean
 clean :
