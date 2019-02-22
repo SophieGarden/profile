@@ -12,10 +12,8 @@ Data Scientist \n
 
 == About
 
-I'm a graduate of the ECE department at UIUC, where I was fortunate to be advised by Gary Eden.
-I am currently on the job market for data science positions.
+I am a Data Scientist and Electrical & Computer Engineering PhD using data science and machine learning to tackle impactful issues.
 
-{{<h2 id="pubs">Publications</h2>}}
-
-- Title \n
-  Authors. Venue, date.
+== Programming Projects
+- [https://github.com/SophieGarden/AI_Folder_Genie AI Folder Genie] \n
+  Magically download your files to the right location.
