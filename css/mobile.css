@@ -1,0 +1,30 @@
+@media (max-width: 575px) {
+    h1 {
+        display: none;
+    }
+
+    #layout-menu {
+        direction: rtl;
+        padding-top: 0em;
+        margin-top: 0em;
+    }
+
+    div.menu-category {
+        float: left;
+        margin-top: 0em;
+    }
+
+    .menu-item {
+        float: left;
+    }
+
+    #tlayout td {
+        float: left;
+        width: 100%;
+    }
+
+    div#toptitle {
+        margin-bottom: 1em;
+        border-bottom: 0px;
+    }
+}

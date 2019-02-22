@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{index.html}
+= Sophie Chen
+
+~~~
+{}{img_left}{static/headshot.jpg}{headshot}{200px}{200px}{index.html}
+Data Scientist \n
+{{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} sophiechenphd \[AT\] gmail \[DOT\] com
+{{<img src="static/github.png" width="16px" height="16px" />&nbsp;}} [https://github.com/SophieGarden Github] {{&nbsp;&nbsp;<img src="static/linkedin.png" width="16px" height="16px" />&nbsp;}} [https://www.linkedin.com/in/sophie-chen-data LinkedIn] \n
+
+[static/Sophie_Chen_Resume.pdf Resume]
+~~~
+
+== About
+
+I'm a graduate of the ECE department at UIUC, where I was fortunate to be advised by Gary Eden.
+I am currently on the job market for data science positions.
+
+{{<h2 id="pubs">Publications</h2>}}
+
+- Title \n
+  Authors. Venue, date.

@@ -1,4 +1,4 @@
-sophiegarden.github.io/profile
-==============================
+sophiegarden.github.io/profile/
+===============================
 
 personal website
