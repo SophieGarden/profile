@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{static/headshot.jpg}{headshot}{200px}{200px}{index.html}
-Applied Scientist, Machine Learning \n
+PhD, Applied Scientist, Machine Learning \n
 {{<img src="static/mail.png" width="16px" height="16px" />&nbsp;}} sophiechenphd \[AT\] gmail \[DOT\] com
 {{<img src="static/github.png" width="16px" height="16px" />&nbsp;}} [https://github.com/SophieGarden Github] {{&nbsp;&nbsp;<img src="static/linkedin.png" width="16px" height="16px" />&nbsp;}} [https://www.linkedin.com/in/sophie-chen-data LinkedIn] \n
 
@@ -17,3 +17,10 @@ Sophie Chen enjoys the unique challenges offered by machine learning and data sc
 == Machine Learning Projects
 - [https://github.com/SophieGarden/AI_Folder_Genie AI Folder Genie] \n
   Magically download your files to the right location.
+
+== Certificates
+- Deep Learning Specialization \n
+  from DeepLearning.AI
+
+- Data Science Nano Degree \n
+  from Udacity
